@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ArtWorx/static/css/main.eeac1cc1.css",
+    "main.js": "/ArtWorx/static/js/main.2cf42017.js",
+    "static/media/background.jpg": "/ArtWorx/static/media/background.8c2b987e3cf313884d8b.jpg",
+    "static/media/img1.jpg": "/ArtWorx/static/media/img1.eea423d39872361cc5d2.jpg",
+    "static/media/img3.jpg": "/ArtWorx/static/media/img3.729139ae5c84438b59f9.jpg",
+    "static/media/img2.jpg": "/ArtWorx/static/media/img2.03fe96bee72113c689b7.jpg",
+    "static/media/img4.jpg": "/ArtWorx/static/media/img4.a2eee9b7da559706c867.jpg",
+    "static/media/img1.png": "/ArtWorx/static/media/img1.d06c280bfe8c143d4ea9.png",
+    "index.html": "/ArtWorx/index.html",
+    "main.eeac1cc1.css.map": "/ArtWorx/static/css/main.eeac1cc1.css.map",
+    "main.2cf42017.js.map": "/ArtWorx/static/js/main.2cf42017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeac1cc1.css",
+    "static/js/main.2cf42017.js"
+  ]
+}
